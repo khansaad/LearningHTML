@@ -1,1 +1,18 @@
-Begining
+To create a branch from master
+
+git branch <branchName>
+
+git checkout <branchName>
+
+* difference between <b> and <strong>, <em> and <i>
+* <pre> tag usage
+* &lang; <
+* &rang; >
+* &amp; &
+* &copy; copywrite
+* &trade; Trademark
+* &nbsp; to add additional whitespace
+added to keep two words together while resizing the browser window
+
+* aside: use to display info which aren't critical yet related to the content on the page
+* target attribut in <a> tag opens the link in new tab
