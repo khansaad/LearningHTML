@@ -15,3 +15,4 @@ git checkout <branchName>
 added to keep two words together while resizing the browser window
 
 * aside: use to display info which aren't critical yet related to the content on the page
+* target attribut in <a> tag opens the link in new tab
